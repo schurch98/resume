@@ -1,2 +1,2 @@
-# schurch98.github.io-resume-
+# schurch98.github.io-resume
 Latest resume
