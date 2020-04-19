@@ -31,7 +31,7 @@ head{
 }
 
 /* step three - build a grid that becomes active when the pixels are 800px or less */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1700px) {
 
     .container{
         background-color: rgba(216, 221, 222, 0.5);
